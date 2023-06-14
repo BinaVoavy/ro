@@ -1,0 +1,28 @@
+.edges_container {
+  padding: 1rem;
+}
+
+.edges_container .edge_input {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.edges_container .edge_input .selects {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.edges_container .edge_input .inputs {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.edges_container .edges {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  overflow: auto;
+}

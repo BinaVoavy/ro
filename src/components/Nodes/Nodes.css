@@ -1,0 +1,17 @@
+.node_container {
+  padding: 1rem;
+}
+
+.node_container .node_input {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.node_container .nodes {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  overflow: auto;
+}
